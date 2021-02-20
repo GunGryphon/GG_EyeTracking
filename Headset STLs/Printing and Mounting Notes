@@ -1,0 +1,9 @@
+This folder includes files for printing a basic camera mount for eye tracking. 
+
+All files were printed using a firm TPU (95A shore hardness) and may require supports. TPU is required due to interferance fits between the components to maintain friction positioning. An elastic band behind the ears is recommended to keep headset from falling off due to it's light design. 
+
+The included camera faceplate matches a Logitech C270 camera and was remixed from an STL uploaded by Night_Gryphon (no relation). See accompanying license file for that remix. 
+
+Before assembly, the glue dots holding the focus ring in place need to be broken to allow a shorter focal range on the camera. 
+
+Attach camera mount to headset using a snugly threaded M4x40 machine screw.
