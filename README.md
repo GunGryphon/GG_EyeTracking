@@ -1,6 +1,6 @@
 # GG_EyeTracking
 Webcam eye tracking scripts for animatronic and VR puppetry
-Origonal Author: Ryan H. (GunGryphon)
+Original Author: Ryan H. (GunGryphon)
 Initally written for a college embedded system project
 
 This program is designed to run light weight eye tracking using a head-mounted webcam and a Raspberry Pi 3 or better device.
